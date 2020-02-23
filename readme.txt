@@ -1,1 +1,1 @@
-The folder of algorithms contains some common programs in projects.
+The folder of algorithms contains some common programs in project implementation.
